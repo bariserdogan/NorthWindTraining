@@ -1,0 +1,10 @@
+c:\users\baris\documents\visual studio 2013\Projects\NorthWindTraining\NorthWindTraining\bin\NorthWindTraining.dll.config
+c:\users\baris\documents\visual studio 2013\Projects\NorthWindTraining\NorthWindTraining\bin\NorthWindTraining.dll
+c:\users\baris\documents\visual studio 2013\Projects\NorthWindTraining\NorthWindTraining\bin\NorthWindTraining.pdb
+c:\users\baris\documents\visual studio 2013\Projects\NorthWindTraining\NorthWindTraining\bin\EntityFramework.dll
+c:\users\baris\documents\visual studio 2013\Projects\NorthWindTraining\NorthWindTraining\bin\EntityFramework.SqlServer.dll
+c:\users\baris\documents\visual studio 2013\Projects\NorthWindTraining\NorthWindTraining\bin\EntityFramework.xml
+c:\users\baris\documents\visual studio 2013\Projects\NorthWindTraining\NorthWindTraining\bin\EntityFramework.SqlServer.xml
+c:\users\baris\documents\visual studio 2013\Projects\NorthWindTraining\NorthWindTraining\obj\Debug\NorthWindTraining.csprojResolveAssemblyReference.cache
+c:\users\baris\documents\visual studio 2013\Projects\NorthWindTraining\NorthWindTraining\obj\Debug\NorthWindTraining.dll
+c:\users\baris\documents\visual studio 2013\Projects\NorthWindTraining\NorthWindTraining\obj\Debug\NorthWindTraining.pdb
